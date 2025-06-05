@@ -21,7 +21,7 @@ The designs were created to the following widths:
 Off-white: #fffdfa
 Grayish blue: #c5c6ce
 Dark grayish blue: #5d5f79
-Very dark blue: hsl(240, 100%, 5%)
+Very dark blue: #00001a
 
 ## Typography
 
